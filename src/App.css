@@ -1,3 +1,7 @@
+/* CSS to align the greeting and login to the center
+Created a bottom border
+Gave the word 'Log In' a margin-top to push it away from the navbar*/
+
 .greeting {
   text-align: center;
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);

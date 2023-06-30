@@ -1,3 +1,9 @@
+/* import the components from react bootstrap
+
+export the function Navigation
+  creates the JSX to display the navbar component
+  using the imported components from react bootstrap.*/
+
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";

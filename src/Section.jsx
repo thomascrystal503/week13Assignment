@@ -1,3 +1,11 @@
+/* import the components from react bootstrap
+
+used the lab learning because I liked the look of it.
+ 
+export the function LoginForm
+used the button and form from bootstrap
+to write the jsx to display the section component*/
+
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 
